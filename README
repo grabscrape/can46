@@ -1,0 +1,7 @@
+
+http://desmoines.pm.org/meetings/selenium_july2013.html#/2
+http://elementalselenium.com/tips/25-tables
+
+
+    ruby fetch.rb | tee Links/<<FILE>>
+
